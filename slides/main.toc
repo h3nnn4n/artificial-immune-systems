@@ -1,0 +1,4 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {portuges}
+\beamer@sectionintoc {1}{Introdu\IeC {\c c}\IeC {\~a}o}{2}{0}{1}
+\beamer@sectionintoc {2}{Refer\^encias}{25}{0}{2}

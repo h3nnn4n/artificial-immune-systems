@@ -1,0 +1,19 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{decastro2002}
+L.~de~Castro, J.~Timmis,
+  \href{https://books.google.com.br/books?id=aMFP7p8DtaQC}{Artificial Immune
+  Systems: A New Computational Intelligence Approach}, Springer, 2002.
+\newline\urlprefix\url{https://books.google.com.br/books?id=aMFP7p8DtaQC}
+
+\bibitem{timmis2004}
+J.~Timmis, T.~Knight, L.~N. de~Castro, E.~Hart, An overview of artificial
+  immune systems, in: Computation in Cells and Tissues, Springer, 2004, pp.
+  51--91.
+
+\end{thebibliography}
